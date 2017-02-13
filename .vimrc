@@ -7,6 +7,7 @@
 " :he cterm-colors
 "
 syntax on
+set paste
 set nu
 set background=dark
 set linebreak       " 分行不段字, 以單字為單位跳到下一行完整顯示
